@@ -6,3 +6,5 @@ export JEKYLL_ENV=production
 
 bundle install
 bundle exec jekyll build
+
+cp _headers _site/
