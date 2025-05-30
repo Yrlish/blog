@@ -2,4 +2,14 @@
     Link: </assets/css/jekyll-theme-chirpy.css>; rel=preload; as=style
     Link: </assets/lib/fonts/main.css>; rel=preload; as=style
     Link: </assets/lib/fontawesome-free/css/all.min.css>; rel=preload; as=style
+
     Link: </assets/js/dist/theme.min.js>; rel=preload; as=script
+
+    Link: </assets/lib/fonts/Source_Sans_Pro/SourceSansPro-Regular.woff2>; rel=preload; as=font; crossorigin
+    Link: </assets/lib/fonts/Source_Sans_Pro/SourceSansPro-Bold.woff2>; rel=preload; as=font; crossorigin
+    Link: </assets/lib/fonts/Source_Sans_Pro/SourceSansPro-SemiBold.woff2>; rel=preload; as=font; crossorigin
+    Link: </assets/lib/fonts/Source_Sans_Pro/SourceSansPro-Black.woff2>; rel=preload; as=font; crossorigin
+    Link: </assets/lib/fonts/Lato/Lato-Regular.woff2>; rel=preload; as=font; crossorigin
+    Link: </assets/lib/fontawesome-free/webfonts/fa-solid-900.woff2>; rel=preload; as=font; crossorigin
+    Link: </assets/lib/fontawesome-free/webfonts/fa-regular-400.woff2>; rel=preload; as=font; crossorigin
+    Link: </assets/lib/fontawesome-free/webfonts/fa-brands-400.woff2>; rel=preload; as=font; crossorigin
